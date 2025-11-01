@@ -44,18 +44,9 @@ BugerNetz is built using Angular for the frontend, python/FastAPI for the backen
 | 6+   | Optional enhancements: AI-based issue priority, gamification, multi-language support, mobile app wrapper |
 
 
-## **Development Roadmap**
-
-| Week | Milestone / Tasks |
-|------|------------------|
-| 1    | Project setup, repository on GitHub, database schema, user roles, JWT authentication |
-| 2    | Citizen reporting form, image upload, geolocation tagging, citizen dashboard, notifications |
-| 3    | Admin dashboard, analytics charts, filtering & searching, optional AI categorization |
-| 4    | Frontend polishing, responsive design, feedback & rating system, UI/UX improvements |
-| 5    | Testing (unit & integration), deployment (frontend on Vercel / AWS Amplify, backend on EC2/Render, DB on RDS/Supabase), final UAT |
-| 6+   | Optional enhancements: AI-based issue priority, gamification, multi-language support, mobile wrapper |
 
 # Phase status
 1. Conception Phase – Done
 2. Development Phase – In Progress
+
 
